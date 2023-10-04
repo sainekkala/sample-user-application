@@ -79,7 +79,7 @@ nav ul li:first-child a:hover {
 #btnTheme {
     /* padding: 10px;
     font-size: 18px; */
-    transition: 301ms all linear;
+    transition: 300ms all linear;
 }
 
 .theme-btn-dark{
